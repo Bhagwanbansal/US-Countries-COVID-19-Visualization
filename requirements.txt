@@ -1,4 +1,4 @@
-dash>=2.0.0
+dash=2.7.0
 operator
 pandas
 plotly
