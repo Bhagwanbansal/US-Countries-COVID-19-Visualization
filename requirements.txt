@@ -1,5 +1,4 @@
 dash>=2.7.0
-operator
 pandas
 plotly
 datetime
