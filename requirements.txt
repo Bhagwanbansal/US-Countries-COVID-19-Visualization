@@ -5,3 +5,5 @@ datetime
 html
 dcc
 index
+python --version = 3.9.4
+pip --version = 3.9.4
