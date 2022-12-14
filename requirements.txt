@@ -2,7 +2,7 @@ dash>=2.7.0
 pandas
 plotly
 datetime
-html-dev
+html
 dcc
 index
 python>=3.9.4
